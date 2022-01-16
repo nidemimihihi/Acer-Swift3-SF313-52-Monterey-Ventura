@@ -31,12 +31,7 @@
 * Advanced->intel VTD->Disabled
 
 
+！<img width="654" alt="截屏2022-01-16 下午12 52 20" src="https://user-images.githubusercontent.com/45564110/149656250-1d128da4-3721-4493-8e3a-0a7a51a11327.png">
 
-<img width="654" alt="截屏2022-01-16<img width="1015" alt="截屏2022-01-16 下午12 53 07" src="https://user-images.githubusercontent.com/45564110/149656140-328fa189-4718-4c44-990f-833e83b24fc2.png">
-
-<img width="1015" alt="截屏2022-01-16 下午12 53 07" src="https://user-images.githubusercontent.com/45564110/149656174-81db3cf6-1ec4-47f2-b5c3-6f98b95e6c36.png">
-
-
-<img width="1015" alt="截屏2022-01-16 下午12 53 36" src="https://user-images.githubusercontent.com/45564110/149656184-c619aed6-a785-4935-8f3a-dba8294f5196.png">
-
-
+！
+<img width="1015" alt="截屏2022-01-16 下午12 53 07" src="https://user-images.githubusercontent.com/45564110/149656260-e172a3a6-12fe-4296-bf2a-d09658433074.png">
