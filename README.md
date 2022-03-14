@@ -21,7 +21,7 @@
 
 * 3.蓝牙：Windows蓝牙驱动板本不要高于22.60.2，不然会导致Mac卡顿和蓝牙无法驱动。
 
-* 4.HIDPI：关于sf313-52开启hidpi的方法，我放在压缩包里，自行下载阅读开启。
+* 4.HIDPI：关于sf313-52开启hidpi的方法，我放在压缩包里，自行下载查阅。
  [sf313-52开启hidpi.zip](https://github.com/Mr-Zhang-1/Acer-Swift3-SF313-52-Monterey/files/8246959/sf313-52.hidpi.zip)
 
 
