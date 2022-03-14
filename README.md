@@ -20,7 +20,10 @@
 * 2.声卡：从Windows重启到Mac无法驱动，需关机开机；内置麦克风无法驱动，扬声器、耳机正常使用。
 
 * 3.蓝牙：Windows蓝牙驱动板本不要高于22.60.2，不然会导致Mac卡顿和蓝牙无法驱动。
- 
+
+* 4.HIDPI：关于sf313-52开启hidpi的方法，我放在压缩包里，自行下载阅读开启。
+ [sf313-52开启hidpi.zip](https://github.com/Mr-Zhang-1/Acer-Swift3-SF313-52-Monterey/files/8246959/sf313-52.hidpi.zip)
+
 
 ## BIOS设置：
 
@@ -32,6 +35,7 @@
 
 * Advanced->intel VTD->Disabled
 
+## 截图预览：
 
 <img width="654" alt="截屏2022-01-16 下午12 52 20" src="https://user-images.githubusercontent.com/45564110/149656250-1d128da4-3721-4493-8e3a-0a7a51a11327.png">
 
