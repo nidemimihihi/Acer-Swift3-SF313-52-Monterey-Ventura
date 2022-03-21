@@ -29,7 +29,7 @@
 
 * Main->F12 Boot Menu->Enabled
   
-* Main->SATA Mode->AHCI
+* Main->Ctrl＋s->SATA Mode->AHCI
 
 * Main->Fast Boot->Disabled
 
